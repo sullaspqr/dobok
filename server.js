@@ -41,7 +41,7 @@ app.use(cors());
  * @swagger
  * components:
  *  schemas:
- *    Instrument:
+ *    Drum:
  *      type: object
  *      properties:
  *        id:
